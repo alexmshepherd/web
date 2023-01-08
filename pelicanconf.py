@@ -1,5 +1,5 @@
-AUTHOR = 'alex martin shepherd'
-SITENAME = 'alex martin shepherd'
+AUTHOR = 'alex'
+SITENAME = 'alex m shepherd'
 SITEURL = ''
 
 PATH = 'content'
