@@ -2,7 +2,7 @@ AUTHOR = 'alex'
 SITENAME = 'alex m shepherd'
 SITEURL = ''
 
-THEME = "/home/user/pelican-themes/monospace"
+THEME = "monospace"
 
 PATH = 'content'
 
